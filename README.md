@@ -2,7 +2,7 @@
 
 A modern MMA betting platform where users can place bets, view fight listings with odds, and manage their funds securely.
 
-🚀 Features
+🚀 Features:  <br /> 
 ✅ User Authentication – Signup/Login with JWT-based authentication  <br /> 
 🎲 Betting System – Users can place bets on upcoming fights  <br /> 
 📅 Fight Listings – View upcoming & past fights with real-time odds  <br /> 
