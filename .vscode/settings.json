@@ -1,0 +1,19 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "mma_db",
+            "username": "root",
+            "password": "root",
+            "name": "mma_data_base_connection"
+        }
+    ]
+}

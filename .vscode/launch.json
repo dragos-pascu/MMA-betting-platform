@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MmaBettingPlatformApplication<mma-betting-platform>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dragospascu.mma_betting_platform.MmaBettingPlatformApplication",
+            "projectName": "mma-betting-platform",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

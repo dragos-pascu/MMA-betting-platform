@@ -1,0 +1,15 @@
+# Add a Fight
+POST http://localhost:8080/fights
+Content-Type: application/json
+
+{
+    "fighter1": "Mike Tyson",
+    "fighter2": "Muhammad Ali",
+    "date": "2025-01-20",
+    "location": "New York"
+}
+
+###
+
+# Get All Fights
+GET http://localhost:8080/fights
